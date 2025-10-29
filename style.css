@@ -1,0 +1,27 @@
+body {
+background:url(assets/arif-riyanto-vJP-wZ6hGBg-unsplash.jpg) ;
+margin-top: -20px;
+}
+#h1-custom{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+
+}
+p.p-custom {
+    font-size: 15px;
+    margin: 15px;
+    line-height:important;
+    color:bisque;
+}
+.container{
+    border: 9px solid blanchedalmond;
+    padding: 15px;
+    background-color: greenyellow ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 250px;
+}
